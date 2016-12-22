@@ -12,6 +12,8 @@ R2, R2, R2 leaves you 2 blocks due South of your starting position, which is�
 
 R5, L5, R5, R3 leaves you 12 blocks away.
 
+How many blocks away is Easter Bunny HQ?
+
 =end
 
 direction, x, y = 0, 0, 0
